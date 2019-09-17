@@ -30,6 +30,7 @@ public class Sample {
 		Thread.sleep(3000);
 
 		act.dragAndDrop(src, dst).perform();
+				System.out.println("change by vikram");
 	}
 
 }
